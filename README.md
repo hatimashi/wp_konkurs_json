@@ -1,2 +1,2 @@
 # wp_konkurs_json
-son file to check updates
+json file to check updates
