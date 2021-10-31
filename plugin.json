@@ -5,7 +5,7 @@
 
 	"homepage": "https://github.com/hatimashi/wp_konkurs/",
 	"requires": "4.5",
-	"tested": "4.8",
+	"tested": "5.3.4",
 	"last_updated": "2021-10-31 13:00:00",
 	"upgrade_notice": "New features and bugs",
 
